@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestDemo.iml" filepath="$PROJECT_DIR$/TestDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recucleview/recucleview.iml" filepath="$PROJECT_DIR$/recucleview/recucleview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rvclick/rvclick.iml" filepath="$PROJECT_DIR$/rvclick/rvclick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testdb/testdb.iml" filepath="$PROJECT_DIR$/testdb/testdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testdialog/testdialog.iml" filepath="$PROJECT_DIR$/testdialog/testdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testmem/testmem.iml" filepath="$PROJECT_DIR$/testmem/testmem.iml" />
+    </modules>
+  </component>
+</project>
